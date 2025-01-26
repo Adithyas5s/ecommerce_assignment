@@ -11,7 +11,5 @@ performing Customer Segmentation using clustering techniques.
    FirstName_LastName_Lookalike.py: Converted Python script for the Lookalike Model.
    FirstName_LastName_Clustering.py: Converted Python script for Customer Segmentation.
 5. Run FirstName_LastName_Lookalike.py, It generates FirstName_LastName_Lookalike.csv.
-6. Run FirstName_LastName_EDA.py and FirstName_LastName_Clustering.py.
-
-DESIRED OUTPUTS
-
+6. Run FirstName_LastName_EDA.py - It will generate Customer Distribution by Region, Product Categories Distribution, monthly total value of transactions and Correlation matrix of Numerical Features
+7. Run FirstName_LastName_Clustering.py. - It will generate Customer segments plot
