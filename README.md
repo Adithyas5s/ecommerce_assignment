@@ -1,4 +1,7 @@
-This repository contains the solution to the eCommerce Data Science Assignment. The assignment consists of three main tasks: Exploratory Data Analysis (EDA), building a Lookalike Model, and performing Customer Segmentation using clustering techniques.
+This repository contains the solution to the eCommerce Data Science Assignment. The assignment consists of three main tasks: 
+Exploratory Data Analysis (EDA) 
+building a Lookalike Model
+performing Customer Segmentation using clustering techniques.
 
 Folders and File structure should be as follows:
 ecommerce_assignment/
